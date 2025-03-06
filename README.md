@@ -77,4 +77,5 @@ The application uses a tabbed interface with the following main components:
 - Custom web browser implementation (com.congeriem.web.browser)
 
 ## License
-This software is proprietary. All rights reserved. 
+This software is licensed under the MIT License.
+See [LICENSE](LICENSE)
